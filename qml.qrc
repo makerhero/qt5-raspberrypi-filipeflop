@@ -1,0 +1,13 @@
+<RCC>
+    <qresource prefix="/">
+        <file>main.qml</file>
+        <file>Background.qml</file>
+        <file>SlideSwitch.qml</file>
+        <file>images/background.png</file>
+        <file>images/off-state.png</file>
+        <file>images/off-text.png</file>
+        <file>images/on-state.png</file>
+        <file>images/on-text.png</file>
+        <file>images/switch-handle.png</file>
+    </qresource>
+</RCC>
