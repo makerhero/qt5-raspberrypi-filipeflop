@@ -9,7 +9,7 @@ Window {
     visible: true
     width: 800; height: 480
     // descomente a seguinte linha se quiser a aplicaço em tela cheia
-    visibility: "FullScreen"
+    //visibility: "FullScreen"
 
     // adiciona o fundo com os logos da Filipeflop, Qt e Raspberry
     Background {}
