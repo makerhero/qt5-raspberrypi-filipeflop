@@ -16,7 +16,5 @@ include(deployment.pri)
 HEADERS += \
     backend.h
 
-INCLUDEPATH += \
-    /usr/include/
 LIBS += \
     -L/usr/local/lib -lwiringPi
